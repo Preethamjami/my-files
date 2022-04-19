@@ -1,0 +1,18 @@
+<!classpage html>
+<html>
+    <body style="background-image: linear-gradient(to right,#e25822,#2B65EC);">
+        <h1 style="width: 75%;margin-left: 12.25%;text-align: center;background-color: rgb(62, 240, 92);color: tomato;font-family: comic sans MS;font-size: 50px;"> GVP MECH </h1>
+        <div style="background-image: url(https://www.imago-images.com/bild/st/0139505660/s.jpg);">
+            <p style="font-family: snap ITC;font-size: 40px;color: blue;text-shadow: black;text-align: center;">HI..........<br>FOR VIPS</p>
+            <p style="font-family: stencil;font-size: 60px;color: rebeccapurple;text-shadow: black;font-weight: bolder;">FACULTY UNNARA LERA</p>
+            <p id="class" style="font-family: comic sans MS;font-size: 80px;font-weight: 1000;text-align: center;"> CLASS LO UNNARA EVARAINA?????</p>
+            <button type="button" onclick='document.getElementById("class").innerHTML = "UNNARU"'>UNNARU</button>
+            <button type="button" onclick='document.getElementById("class").innerHTML = "RALEDU"'>RALEDU</button>
+            <button type="button" onclick='document.getElementById("class").innerHTML = "VELLIPOYARU"'>VELLIPOYARU</button>
+            <button type="button" onclick='document.getElementById("class").innerHTML = "VACHESTUNNARU"'>VACHESTUNNARU</button>
+
+
+        </div>     
+           
+    </body>  
+</html>
